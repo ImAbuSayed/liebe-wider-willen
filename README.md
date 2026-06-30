@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarze Scheiben, rote Lippen, Baby, steig zu mir ein
+> Ich war ein Wolf auf der Jagd, doch du fängst mich jetzt ein
+> Spür deinen Duft in der Luft, mein Puls schlägt im Takt
+> Liebe wider Willen, wir brechen die Regeln heut Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
