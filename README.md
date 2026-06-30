@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/liebe-wider-willen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Liebe wider Willen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-wider-willen/) |
+| **Get License** | [Music Rights & Licensing for Liebe wider Willen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-wider-willen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `452cfbce187ed4ed979c493fc59046a25bdd360544bb685a68c3925c0940b579` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
